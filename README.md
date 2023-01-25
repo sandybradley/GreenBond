@@ -42,8 +42,8 @@ R100,000 / (520 + 1620) = 46 months = 3.9 years
 ### Example Bond terms
 
 - Bond period: 5 years
-- Bond dividend: 2% per month
-- Total ROI after 5 years: 120 % 
+- Bond dividend: 2.5 % per month
+- Total ROI after 5 years: 50 %
 - Minimum investment: R100,000
 - Treasurey tokens: ZAR, USDC, WBTC, ETH, PAXG
 
@@ -51,12 +51,12 @@ R100,000 / (520 + 1620) = 46 months = 3.9 years
 
 - Claim ownership of equipment after 5 years with no upfront cost (rent to own). 
 - No load shedding (Eskom power cuts currently <= 12 hours a day). 
-- Cost of rent less than current cost of power
+- Cost of rent on par with current cost of power
 
 ### Benfits for investor
 
-- Tax free dividends
-- Attractive ROI
+- [Tax free dividends](https://www.green-cape.co.za/assets/SOLAR_PV_INDUSTRY_BRIEF_web.pdf)
+- Attractive ROI ~ 10 % annually (tax free)
 - Low risk
 - Improving lives and livlihoods
 
