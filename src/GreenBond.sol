@@ -1,7 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.17;
 
-contract DiasporaBond {
+/// @notice Experiemental diaspora bond as a smart contract for Cape Town energy resilience (South Africa)
+/// @author @sandybradley
+contract GreenBond {
     // Bond details
     address public issuer;
     uint256 public bondAmount;
