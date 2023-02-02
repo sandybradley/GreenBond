@@ -60,7 +60,7 @@ R100,000 / (520 + 1620) = 46 months = 3.9 years
 - [Tax free dividends](https://www.green-cape.co.za/assets/SOLAR_PV_INDUSTRY_BRIEF_web.pdf)
 - Attractive ROI ~ 10 % annually (tax free)
 - Low risk
-- Improving lives and livlihoods
+- Improving lives and livelihoods
 
 ## Why a Green Bond for South Africa?
 
