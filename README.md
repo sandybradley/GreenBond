@@ -1,6 +1,6 @@
 # DeFi Green Bond for Cape Town, South Africa (experimental stage)
 
-Source code for Green Bond smart contract (EVM compatible) contained within.
+Source code for a Green Bond smart contract (EVM compatible) contained within.
 
 ## Why now and why Cape Town?
 
