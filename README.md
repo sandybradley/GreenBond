@@ -1,5 +1,7 @@
 # DeFi Green Bond for Cape Town, South Africa (experimental stage)
 
+Source code for Green Bond smart contract (EVM compatible) contained within.
+
 ## Why now and why Cape Town?
 
 "The National Energy Regulator of South Africa (Nersa) has approved a rate of 78.98c/kWh for this financial year for the city to pay power sellers.
